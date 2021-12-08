@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milangela Galea</h1>
 <h3 align="center">Proyecto final del curso de React Js en coderhouse.</h3>
 
-- 🌱 I’m currently learning **en coderhouse**
+- 🌱 I’m currently learning **en Coderhouse**
 
 - 📫 How to reach me **milangelagalea@gmail.com**
 
-- Netlify: https://ecommerce-mila.netlify.app/
+- Netlify-Link del proyecto: https://ecommerce-mila.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
