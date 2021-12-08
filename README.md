@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **milangelagalea@gmail.com**
 
+Netlify: https://ecommerce-mila.netlify.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
